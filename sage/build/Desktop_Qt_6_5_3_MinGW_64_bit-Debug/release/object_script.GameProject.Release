@@ -1,0 +1,10 @@
+release/bullet.o
+release/enemy.o
+release/hero.o
+release/main.o
+release/mainwindow.o
+release/mainscene.o
+release/map.o
+release/qrc_res.o
+release/moc_mainwindow.o
+release/moc_mainscene.o
